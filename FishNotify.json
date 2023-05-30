@@ -1,0 +1,12 @@
+{
+  "Author": "Liza Carvelli,ryon5541",
+  "Name": "Fish Notify",
+  "Punchline": "Plays a sound when a fish is caught",
+  "Description": "Plays a sound when a fish is caught, depending on tug-strength",
+  "InternalName": "FishNotify",
+  "DalamudApiLevel": 8,
+  "Tags": [
+    "fishing"
+  ],
+  "RepoUrl": "https://github.com/ryon5541/Fish-Notify"
+}
